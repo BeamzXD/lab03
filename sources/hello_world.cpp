@@ -1,5 +1,5 @@
 // hello_world.cpp
-// Simple program to greet the user
+// Простая программа для приветсвия пользователя
 
 #inculde < iostream>
 
@@ -12,4 +12,3 @@ main()
   std::cout << "Hello world from " << name << "!"
             << std::endl; // Printing greeting message
   return 0;
-}
